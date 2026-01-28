@@ -73,19 +73,22 @@ Generates a summary report showing:
 Uses a subquery to find products whose MRP is higher than the overall average MRP.
 
 ---
-
 ## 📂 Project Structure
 
 zepto-inventory-sql-analysis/
 │
 ├── README.md
-├── schema/
-│   └── create_table.sql
+├── dataset/
+│   └── zepto_data.csv
 │
-├── queries/
-│   ├── basic_queries.sql
-│   ├── intermediate_queries.sql
-│   └── advanced_queries.sql
+├── problem_statements/
+│   └── sql_questions
+│
+├── answers/
+│   ├── basic_sql_answers.sql
+│   ├── intermediate_sql_answers.sql
+│   └── advanced_sql_answers.sql
+
 
 ---
 
