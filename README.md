@@ -78,16 +78,17 @@ Uses a subquery to find products whose MRP is higher than the overall average MR
 zepto-inventory-sql-analysis/
 │
 ├── README.md
+│
 ├── dataset/
-│   └── zepto_data.csv
+│ └── zepto_data.csv
 │
 ├── problem_statements/
-│   └── sql_questions
+│ └── sql_questions.md
 │
-├── answers/
-│   ├── basic_sql_answers.sql
-│   ├── intermediate_sql_answers.sql
-│   └── advanced_sql_answers.sql
+└── answers/
+├── basic_sql_answers.sql
+├── intermediate_sql_answers.sql
+└── advanced_sql_answers.sql
 
 
 ---
