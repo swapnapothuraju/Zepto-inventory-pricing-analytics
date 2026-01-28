@@ -8,20 +8,6 @@ The project is designed as a **portfolio-ready SQL case study**, covering both a
 
 ---
 
-## 📁 Dataset Description
-The dataset represents product-level data from a quick-commerce grocery platform and includes the following columns:
-
-- Category  
-- Product Name  
-- MRP  
-- Discount Percent  
-- Discounted Selling Price  
-- Quantity Available  
-- Out of Stock Status  
-- Weight (in grams)
-
----
-
 ## 🛠️ Technologies Used
 - MySQL 8+
 - SQL (Advanced)
